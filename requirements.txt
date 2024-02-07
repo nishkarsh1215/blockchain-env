@@ -3,3 +3,4 @@ flask
 pubnub==4.1.6
 requests==2.22.0
 cryptography
+flask_cors
